@@ -14,7 +14,7 @@ I am currently in the middle of my retraining journey to become a Specialist in 
 
 🛠 Tech Stack (Learning in Progress)
 
-    Languages: Python, Java,
+    Languages: Python, Java
 
     Frontend: HTML, CSS, JavaScript
 
